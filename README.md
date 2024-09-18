@@ -1,2 +1,2 @@
 "# pwd-gen" 
-Password Generator
+Password Generator with letters, numbers and special characters
