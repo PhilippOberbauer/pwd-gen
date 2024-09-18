@@ -1,0 +1,22 @@
+{
+  "name": "@philippoberbauer/pwd-gen",
+  "version": "0.0.2",
+  "description": "Simple password generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhilippOberbauer/pwd-gen.git"
+  },
+  "keywords": [
+    "password"
+  ],
+  "author": "Philipp Oberbauer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhilippOberbauer/pwd-gen/issues"
+  },
+  "homepage": "https://github.com/PhilippOberbauer/pwd-gen#readme"
+}
